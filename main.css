@@ -1,0 +1,55 @@
+html{
+  height: 100%
+}
+body{
+  background: radial-gradient(goldenrod, lightslategray)
+}
+
+h1{
+  font-size: 36px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+span{
+  display: block;
+  text-align: center;
+}
+h2{
+  display: flex;
+  width: 75%;
+}
+
+time{
+  font-size: 16px;
+  display: inline-block;
+  width: 25%;
+}
+
+article{
+  color: firebrick;
+  padding: 6px;
+  margin: 6px;
+}
+
+#cp-rigg{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border: solid purple 6px;
+
+}
+
+#trylon{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border: dashed 3px darkgreen
+}
+
+#jag{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border: outset lightskyblue 10px
+}
+
+#avroko{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-style: dotted dashed solid double;
+  border-color: lime;
+  border-width: 13px;
+}
